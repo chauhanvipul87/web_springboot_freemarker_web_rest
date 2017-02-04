@@ -1,2 +1,9 @@
-# web_springboot_freemarker_web_rest
-Spring Boot + Freemarker  + Jboss + Rest Easy project
+<h2>Spring Boot + Freemarker  + Jboss + Rest Easy project </h2>
+
+Spring Boot + Freemarker View Example
+
+I have created sample project, Just need to import in Eclipse or STS.
+
+This is a maven based project so build this project & run it on server.
+
+
